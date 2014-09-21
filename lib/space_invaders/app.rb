@@ -1,5 +1,4 @@
 require "gosu"
-require 'pry'
 
 # Load the lib if you're running the game without installing the gem.
 lib = File.expand_path('../..', __FILE__)
